@@ -1,5 +1,4 @@
 import React, { Fragment } from "react";
-import axios from "axios";
 import { Container, Row, Col } from "reactstrap";
 
 import Post from "./components/Post";
